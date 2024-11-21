@@ -197,7 +197,3 @@ Open the `src`, then run the `Express.js` file to run the server which is used f
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
-## Demo
-
-[![Video Demo](home.png)](https://www.youtube.com/watch?v=nJki1RElPO4)
